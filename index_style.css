@@ -1,0 +1,14 @@
+
+.item{
+    width: 50%;
+    height: 50%;
+    background-color: blue;
+float: left;
+}
+.parent{
+    background-color: blueviolet;
+
+}
+.clr{
+    clear: both;
+}
